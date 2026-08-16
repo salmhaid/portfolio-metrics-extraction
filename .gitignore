@@ -1,0 +1,21 @@
+# Secrets & personal notes — never commit
+.env
+INTERVIEW_NOTES.md
+
+# Input PDFs stay local (reviewer points --input at their own copy)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Spec Kit tooling (generated templates; the spec itself is committed in specs/)
+.specify/
+.claude/

@@ -1,0 +1,43 @@
+# Canonical metric dictionary (see specs/spec.md — "Canonical metrics (crawl scope)").
+# Descriptions are injected into the extraction prompt; the model assigns each extracted
+# metric to one of these names (or leaves it non-canonical), and the normalizer validates
+# the assignment against this list. Adding a metric = adding an entry here.
+
+metrics:
+  - name: revenue
+    description: >
+      TOTAL revenue recognized in the reporting period, regardless of label
+      (recognized revenue, total billings, quarterly revenue). Exclude components
+      or subsets of revenue (expansion revenue, segment/fee lines) when a total
+      is reported — those stay non-canonical.
+
+  - name: arr
+    description: >
+      TOTAL annual recurring revenue at end of period, however labelled
+      (ARR, contracted ARR, subscription ARR, end-of-period ARR).
+
+  - name: gross_margin
+    description: >
+      Gross margin percentage for the period.
+
+  - name: net_revenue_retention
+    description: >
+      Net revenue / net dollar retention, typically LTM (NRR, NDR).
+
+  - name: logo_churn
+    description: >
+      Customer/logo churn rate, typically annual or LTM.
+
+  - name: headcount
+    description: >
+      Total employees / FTEs at period end.
+
+  - name: cash
+    description: >
+      Cash position at period end (cash balance, cash & equivalents,
+      cash & restricted cash — note restrictions where disclosed).
+
+  - name: net_burn
+    description: >
+      Net cash burn. Capture the period basis — some companies report
+      monthly burn, others quarterly.
