@@ -1,0 +1,30 @@
+{
+  "company_name": "FleetLink Logistics Network",
+  "report_period": "Q4 2024",
+  "metrics": [
+    {
+      "verbatim_label": "Total Recognized Revenue",
+      "value": "7.1M",
+      "canonical_metric": "revenue",
+      "unit": "M",
+      "currency": null,
+      "period": "Q4 2024",
+      "period_basis": "quarterly",
+      "page": 1,
+      "location": "table",
+      "note": null
+    },
+    {
+      "verbatim_label": "Total Headcount",
+      "value": "182",
+      "canonical_metric": "headcount",
+      "unit": "count",
+      "currency": null,
+      "period": "Q4 2024",
+      "period_basis": "point_in_time",
+      "page": 1,
+      "location": "table",
+      "note": null
+    }
+  ]
+}

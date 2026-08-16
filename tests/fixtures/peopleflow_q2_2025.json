@@ -1,0 +1,42 @@
+{
+  "company_name": "PeopleFlow HR Systems Ltd.",
+  "report_period": "Q2 2025",
+  "metrics": [
+    {
+      "verbatim_label": "Quarterly Revenue",
+      "value": "5.1M",
+      "canonical_metric": "revenue",
+      "unit": "M",
+      "currency": "GBP",
+      "period": "Q2 2025",
+      "period_basis": "quarterly",
+      "page": 1,
+      "location": "table",
+      "note": null
+    },
+    {
+      "verbatim_label": "Quarterly Revenue",
+      "value": "4.6M",
+      "canonical_metric": "revenue",
+      "unit": "M",
+      "currency": "GBP",
+      "period": "Q1 2025",
+      "period_basis": "quarterly",
+      "page": 1,
+      "location": "commentary",
+      "note": "Restated from 4.7M per footnote 2"
+    },
+    {
+      "verbatim_label": "Module Attach Rate",
+      "value": "2.3 modules/acct",
+      "canonical_metric": "made_up_metric",
+      "unit": null,
+      "currency": null,
+      "period": "Q2 2025",
+      "period_basis": "point_in_time",
+      "page": 1,
+      "location": "table",
+      "note": null
+    }
+  ]
+}
