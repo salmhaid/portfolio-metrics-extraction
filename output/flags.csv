@@ -1,0 +1,58 @@
+severity,source_file,company,metric,period,detail
+info,CarbonTrack_Q2_2025.pdf,CarbonTrack,arr,Q2 2025,"reported in 2 sources ['CarbonTrack_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept CarbonTrack_Q2_2025.pdf"
+info,CarbonTrack_Q2_2025.pdf,CarbonTrack,gross_margin,Q2 2025,"reported in 2 sources ['CarbonTrack_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept CarbonTrack_Q2_2025.pdf"
+info,CarbonTrack_Q2_2025.pdf,CarbonTrack,headcount,Q2 2025,"reported in 2 sources ['CarbonTrack_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept CarbonTrack_Q2_2025.pdf"
+info,CarbonTrack_Q2_2025.pdf,CarbonTrack,net_burn,Q2 2025,"reported in 2 sources ['CarbonTrack_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept CarbonTrack_Q2_2025.pdf"
+info,CarbonTrack_Q2_2025.pdf,CarbonTrack,net_revenue_retention,Q2 2025,"reported in 2 sources ['CarbonTrack_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept CarbonTrack_Q2_2025.pdf"
+info,CarbonTrack_Q2_2025.pdf,CarbonTrack,revenue,Q2 2025,"reported in 2 sources ['CarbonTrack_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept CarbonTrack_Q2_2025.pdf"
+info,CarbonTrack_Q2_2025.pdf,CarbonTrack,arr,Q2 2025,snapshot and standalone report agree
+info,CarbonTrack_Q2_2025.pdf,CarbonTrack,gross_margin,Q2 2025,snapshot and standalone report agree
+info,CarbonTrack_Q2_2025.pdf,CarbonTrack,headcount,Q2 2025,snapshot and standalone report agree
+info,CarbonTrack_Q2_2025.pdf,CarbonTrack,net_revenue_retention,Q2 2025,snapshot and standalone report agree
+info,CarbonTrack_Q2_2025.pdf,CarbonTrack,revenue,Q2 2025,snapshot and standalone report agree
+info,MediSight_Q2_2025.pdf,MediSight,arr,Q2 2025,"reported in 2 sources ['MediSight_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept MediSight_Q2_2025.pdf"
+info,MediSight_Q2_2025.pdf,MediSight,gross_margin,Q2 2025,"reported in 2 sources ['MediSight_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept MediSight_Q2_2025.pdf"
+info,MediSight_Q2_2025.pdf,MediSight,headcount,Q2 2025,"reported in 2 sources ['MediSight_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept MediSight_Q2_2025.pdf"
+info,MediSight_Q2_2025.pdf,MediSight,revenue,Q2 2025,"reported in 2 sources ['MediSight_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept MediSight_Q2_2025.pdf"
+info,MediSight_Q2_2025.pdf,MediSight,arr,Q2 2025,snapshot and standalone report agree
+info,MediSight_Q2_2025.pdf,MediSight,gross_margin,Q2 2025,snapshot and standalone report agree
+info,MediSight_Q2_2025.pdf,MediSight,headcount,Q2 2025,snapshot and standalone report agree
+info,MediSight_Q2_2025.pdf,MediSight,revenue,Q2 2025,snapshot and standalone report agree
+info,NovaCloud_Q2_2025.pdf,NovaCloud,arr,Q2 2025,"reported in 2 sources ['NovaCloud_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept NovaCloud_Q2_2025.pdf"
+info,NovaCloud_Q2_2025.pdf,NovaCloud,cash,Q2 2025,"reported in 2 sources ['NovaCloud_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept NovaCloud_Q2_2025.pdf"
+info,NovaCloud_Q2_2025.pdf,NovaCloud,gross_margin,Q2 2025,"reported in 2 sources ['NovaCloud_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept NovaCloud_Q2_2025.pdf"
+info,NovaCloud_Q2_2025.pdf,NovaCloud,headcount,Q2 2025,"reported in 2 sources ['NovaCloud_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept NovaCloud_Q2_2025.pdf"
+info,NovaCloud_Q2_2025.pdf,NovaCloud,logo_churn,Q2 2025,"reported in 2 sources ['NovaCloud_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept NovaCloud_Q2_2025.pdf"
+info,NovaCloud_Q2_2025.pdf,NovaCloud,net_revenue_retention,Q2 2025,"reported in 2 sources ['NovaCloud_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept NovaCloud_Q2_2025.pdf"
+info,NovaCloud_Q2_2025.pdf,NovaCloud,revenue,Q2 2025,"reported in 2 sources ['NovaCloud_Q2_2025.pdf', 'Portfolio_Snapshot_Q2_2025.pdf']; precedence kept NovaCloud_Q2_2025.pdf"
+info,NovaCloud_Q2_2025.pdf,NovaCloud,arr,Q2 2025,snapshot and standalone report agree
+info,NovaCloud_Q2_2025.pdf,NovaCloud,cash,Q2 2025,snapshot and standalone report agree
+info,NovaCloud_Q2_2025.pdf,NovaCloud,gross_margin,Q2 2025,snapshot and standalone report agree
+info,NovaCloud_Q2_2025.pdf,NovaCloud,headcount,Q2 2025,snapshot and standalone report agree
+info,NovaCloud_Q2_2025.pdf,NovaCloud,logo_churn,Q2 2025,snapshot and standalone report agree
+info,NovaCloud_Q2_2025.pdf,NovaCloud,net_revenue_retention,Q2 2025,snapshot and standalone report agree
+info,NovaCloud_Q2_2025.pdf,NovaCloud,revenue,Q2 2025,snapshot and standalone report agree
+info,NovaCloud_Q3_2024.pdf,NovaCloud,revenue,Q3 2024,"same value restated under multiple labels/locations; kept one: ['Recognized Revenue (USD)', 'Recognized Revenue']"
+info,PeopleFlow_Q1_2025.pdf,PeopleFlow,gross_margin,Q1 2025,"reported in 2 sources ['PeopleFlow_Q1_2025.pdf', 'PeopleFlow_Q2_2025.pdf']; precedence kept PeopleFlow_Q2_2025.pdf"
+info,PeopleFlow_Q1_2025.pdf,PeopleFlow,revenue,Q1 2025,"reported in 2 sources ['PeopleFlow_Q1_2025.pdf', 'PeopleFlow_Q2_2025.pdf']; precedence kept PeopleFlow_Q2_2025.pdf"
+info,PeopleFlow_Q2_2025.pdf,PeopleFlow,arr,Q2 2025,"same value restated under multiple labels/locations; kept one: ['Subscription ARR (end of period)', 'Subscription ARR']"
+info,Portfolio_Snapshot_Q2_2025.pdf,TalentVault,arr,Q2 2025,"reported in 2 sources ['Portfolio_Snapshot_Q2_2025.pdf', 'TalentVault_Q2_2025.pdf']; precedence kept TalentVault_Q2_2025.pdf"
+info,Portfolio_Snapshot_Q2_2025.pdf,TalentVault,gross_margin,Q2 2025,"reported in 2 sources ['Portfolio_Snapshot_Q2_2025.pdf', 'TalentVault_Q2_2025.pdf']; precedence kept TalentVault_Q2_2025.pdf"
+info,Portfolio_Snapshot_Q2_2025.pdf,TalentVault,net_revenue_retention,Q2 2025,"reported in 2 sources ['Portfolio_Snapshot_Q2_2025.pdf', 'TalentVault_Q2_2025.pdf']; precedence kept TalentVault_Q2_2025.pdf"
+info,Portfolio_Snapshot_Q2_2025.pdf,TalentVault,revenue,Q2 2025,"reported in 2 sources ['Portfolio_Snapshot_Q2_2025.pdf', 'TalentVault_Q2_2025.pdf']; precedence kept TalentVault_Q2_2025.pdf"
+info,Portfolio_Snapshot_Q2_2025.pdf,TalentVault,arr,Q2 2025,snapshot and standalone report agree
+info,Portfolio_Snapshot_Q2_2025.pdf,TalentVault,gross_margin,Q2 2025,snapshot and standalone report agree
+info,Portfolio_Snapshot_Q2_2025.pdf,TalentVault,net_revenue_retention,Q2 2025,snapshot and standalone report agree
+info,Portfolio_Snapshot_Q2_2025.pdf,TalentVault,revenue,Q2 2025,snapshot and standalone report agree
+info,TalentVault_Q2_2025.pdf,TalentVault,,Q2 2025,"verbatim_label 'Two large ATS vendors' found, but not on recorded page 1"
+warning,ApexFreight_Q2_2025.pdf,ApexFreight,revenue,Q2 2025,"conflicting labels mapped to same canonical metric in one document: {'Recognized Revenue (transaction)': '8.6M', 'Total Recognized Revenue': '9.3M'}"
+warning,CarbonTrack_Q2_2025.pdf,CarbonTrack,,Q2 2025,value '+ $0.2M' not found in source text (unverified)
+warning,CarbonTrack_Q2_2025.pdf,CarbonTrack,net_burn,Q2 2025,"snapshot vs standalone disagree: {'snapshot': '($0.68M)', 'standalone': '($0.55M)'}"
+warning,FleetLink_Q4_2024.pdf,ApexFreight,revenue,Q4 2024,currency undetermined for monetary value '9.0M'
+warning,LendBridge_Q2_2024.pdf,LendBridge,,Q2 2024,value '+${0.4}M' not found in source text (unverified)
+warning,MediSight_Q1_2025.pdf,MediSight,revenue,Q1 2025,currency undetermined for monetary value '6.3M'
+warning,MediSight_Q1_2025.pdf,MediSight,arr,Q1 2025,currency undetermined for monetary value '26.1M'
+warning,MediSight_Q2_2025.pdf,MediSight,revenue,Q2 2025,currency undetermined for monetary value '6.8M'
+warning,MediSight_Q2_2025.pdf,MediSight,arr,Q2 2025,currency undetermined for monetary value '27.9M'
+warning,MediSight_Q4_2024.pdf,MediSight,revenue,Q4 2024,currency undetermined for monetary value '6.1M'
+warning,MediSight_Q4_2024.pdf,MediSight,arr,Q4 2024,currency undetermined for monetary value '24.5M'

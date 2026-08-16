@@ -1,0 +1,430 @@
+company,company_as_reported,canonical_metric,verbatim_label,value,unit,currency,quarter,year,period_basis,source_file,source_type,report_period,page,location,note,non_canonical,superseded
+ApexFreight,Apex Freight Solutions Inc.,,Completed Shipments,1.28M,M,,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ApexFreight,Apex Freight Solutions Inc.,,Active Shippers,"3,460",count,,2,2025,point_in_time,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ApexFreight,Apex Freight Solutions Inc.,,Active Carriers,"7,900",count,,2,2025,point_in_time,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ApexFreight,Apex Freight Solutions Inc.,,On-Time Delivery Rate,96.1%,%,,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,Carrier-reported with a 48-hour grace window per service agreement.,True,False
+ApexFreight,Apex Freight Solutions Inc.,,Average Take Rate,11.2%,%,,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ApexFreight,Apex Freight Solutions Inc.,revenue,Recognized Revenue (transaction),8.6M,M,USD,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,Disclosed separately for the first time in Q2 2025.,False,False
+ApexFreight,Apex Freight Solutions Inc.,,SaaS Tool Fee Revenue,0.7M,M,USD,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,Disclosed separately for the first time in Q2 2025.,True,False
+ApexFreight,Apex Freight Solutions Inc.,revenue,Total Recognized Revenue,9.3M,M,USD,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ApexFreight,Apex Freight Solutions Inc.,gross_margin,Gross Margin,54%,%,,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,Expanded to 54%.,False,False
+ApexFreight,Apex Freight Solutions Inc.,,Marketing Spend as % of Revenue,16%,%,,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ApexFreight,Apex Freight Solutions Inc.,,"Support Tickets / 1,000 Shipments",14.3,count,,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ApexFreight,Apex Freight Solutions Inc.,headcount,Total Headcount,204,count,,2,2025,point_in_time,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ApexFreight,Apex Freight Solutions Inc.,,Contribution Margin per Shipment,$2.30,,USD,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Discussed in commentary; not separately tabled.,True,False
+ApexFreight,Apex Freight Solutions Inc.,,One-time warehouse exit cost,0.6M,M,USD,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,footnote,Q2 2025 only.,True,False
+ApexFreight,Apex Freight Solutions Inc.,,Non-cash depreciation and amortisation,0.9M,M,USD,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,footnote,,True,False
+ApexFreight,Apex Freight Solutions Inc.,,Rebrand-related legal and design costs,0.2M,M,USD,2,2025,quarterly,ApexFreight_Q2_2025.pdf,standalone,Q2 2025,1,footnote,Included in Q2 2025 operating expenses and not separately excluded from Gross Margin.,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,arr,Contracted ARR,$16.9M,M,USD,2,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,Q2 2025 value; excludes one-time integration fees and professional services revenue.,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,arr,Contracted ARR,$15.2M,M,USD,1,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,Q1 2025 value; excludes one-time integration fees and professional services revenue.,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,revenue,Recognized Revenue,$4.1M,M,USD,2,2025,quarterly,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,revenue,Recognized Revenue,$3.8M,M,USD,1,2025,quarterly,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,gross_margin,Gross Margin,73%,%,,2,2025,quarterly,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,Gross Margin excludes customer success and data science costs.,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,gross_margin,Gross Margin,72%,%,,1,2025,quarterly,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,Gross Margin excludes customer success and data science costs.,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,net_revenue_retention,Net Revenue Retention (LTM),121%,%,,2,2025,ltm,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,net_revenue_retention,Net Revenue Retention (LTM),118%,%,,1,2025,ltm,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,logo_churn,Logo Churn (LTM),3.8%,%,,2,2025,ltm,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,logo_churn,Logo Churn (LTM),4.1%,%,,1,2025,ltm,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Paying Entities (platform),"1,042",count,,2,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,'Paying Entities' counts each separately contracted reporting entity; group structures may consolidate multiple.,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Paying Entities (platform),964,count,,1,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,'Paying Entities' counts each separately contracted reporting entity; group structures may consolidate multiple.,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,headcount,Total Headcount,78,count,,2,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,headcount,Total Headcount,72,count,,1,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,net_burn,Monthly Net Burn,($0.55M),M,USD,2,2025,monthly,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,net_burn,Monthly Net Burn,($0.61M),M,USD,1,2025,monthly,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,cash,Cash Balance,$13.8M,M,USD,2,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,cash,Cash Balance,$14.8M,M,USD,1,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Emission Records Processed (QTD),88.4M,M,,2,2025,unknown,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Connected Data Source Integrations,214,count,,2,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Scope 3 Value Chain Entities Tracked,"28,600",count,,2,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Avg. Reporting Frameworks per Client,2.3,count,,2,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Automated Audit Trail Coverage,96%,%,,2,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,API Data Ingestion Uptime,99.89%,%,,2,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Average reporting frameworks per client,2.3,count,,2,2025,point_in_time,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Commentary states average reporting frameworks per client reached 2.3 in Q2 2025.,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Scope 3 value chain entity tracking,18%,%,,2,2025,quarterly,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Commentary states Scope 3 value chain entity tracking grew 18% quarter-over-quarter.,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Net new paying entities added,78,count,,2,2025,quarterly,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,commentary,"Commentary states net new paying entities added in Q2 2025 totalled 78, compared to 62 in Q1.",True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Q1,62,count,,1,2025,quarterly,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,commentary,"Commentary states net new paying entities added in Q2 2025 totalled 78, compared to 62 in Q1.",True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Partnership integration fee from a large accounting network,+ $0.2M,M,USD,2,2025,quarterly,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,footnote,One-time; excluded from ARR and recurring revenue.,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,,Non-cash stock-based compensation,$0.28M,M,USD,2,2025,quarterly,CarbonTrack_Q2_2025.pdf,standalone,Q2 2025,1,footnote,,True,False
+ClearPay,ClearPay Technologies Ltd.,,Total Payment Volume (TPV),$3.42B,B,USD,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,TPV represents gross dollar value of transactions processed; not equivalent to revenue.,True,False
+ClearPay,ClearPay Technologies Ltd.,,Total Payment Volume (TPV),$3.11B,B,USD,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,TPV represents gross dollar value of transactions processed; not equivalent to revenue.,True,False
+ClearPay,ClearPay Technologies Ltd.,,Net Revenue (take-rate based),$14.8M,M,USD,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,Effective Take Rate computed as net revenue divided by TPV; excludes platform access and implementation revenue.,True,False
+ClearPay,ClearPay Technologies Ltd.,,Net Revenue (take-rate based),$13.5M,M,USD,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,Effective Take Rate computed as net revenue divided by TPV; excludes platform access and implementation revenue.,True,False
+ClearPay,ClearPay Technologies Ltd.,,Effective Take Rate,43 bps,bps,,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,Computed as net revenue divided by TPV; excludes platform access and implementation revenue.,True,False
+ClearPay,ClearPay Technologies Ltd.,,Effective Take Rate,43 bps,bps,,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,Computed as net revenue divided by TPV; excludes platform access and implementation revenue.,True,False
+ClearPay,ClearPay Technologies Ltd.,,Platform Access Revenue,$2.1M,M,USD,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ClearPay,ClearPay Technologies Ltd.,,Platform Access Revenue,$1.9M,M,USD,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ClearPay,ClearPay Technologies Ltd.,,Implementation Services Revenue,$0.4M,M,USD,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,Implementation Services revenue declined QoQ as the large Q1 onboarding cohort moved to steady-state.,True,False
+ClearPay,ClearPay Technologies Ltd.,,Implementation Services Revenue,$0.7M,M,USD,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,Implementation Services revenue declined QoQ as the large Q1 onboarding cohort moved to steady-state.,True,False
+ClearPay,ClearPay Technologies Ltd.,revenue,Total Recognized Revenue,$17.3M,M,USD,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ClearPay,ClearPay Technologies Ltd.,revenue,Total Recognized Revenue,$16.1M,M,USD,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ClearPay,ClearPay Technologies Ltd.,gross_margin,Gross Margin,67%,%,,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ClearPay,ClearPay Technologies Ltd.,gross_margin,Gross Margin,66%,%,,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ClearPay,ClearPay Technologies Ltd.,headcount,Total Headcount,211,count,,2,2025,point_in_time,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ClearPay,ClearPay Technologies Ltd.,headcount,Total Headcount,203,count,,1,2025,point_in_time,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ClearPay,ClearPay Technologies Ltd.,cash,Cash & Restricted Cash,$38.4M,M,USD,2,2025,point_in_time,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,Includes $6.2M held in segregated client float accounts as required under state money transmitter regulations. Available operating cash at period end was $32.2M.,False,False
+ClearPay,ClearPay Technologies Ltd.,cash,Cash & Restricted Cash,$40.1M,M,USD,1,2025,point_in_time,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,Includes $6.2M held in segregated client float accounts as required under state money transmitter regulations. Available operating cash at period end was $32.2M.,False,False
+ClearPay,ClearPay Technologies Ltd.,,Active Connected Platforms,184,count,,2,2025,point_in_time,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ClearPay,ClearPay Technologies Ltd.,,Active Connected Platforms,171,count,,1,2025,point_in_time,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ClearPay,ClearPay Technologies Ltd.,,Transactions Processed (QTD),28.6M,M,,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ClearPay,ClearPay Technologies Ltd.,,Transactions Processed (QTD),26.1M,M,,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ClearPay,ClearPay Technologies Ltd.,,Avg. Transaction Size,$119.6,,USD,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ClearPay,ClearPay Technologies Ltd.,,Avg. Transaction Size,$119.2,,USD,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ClearPay,ClearPay Technologies Ltd.,,Payment Failure Rate,0.31%,%,,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,Reflects hard failures at authorization; excludes soft declines resolved within 24 hours.,True,False
+ClearPay,ClearPay Technologies Ltd.,,Payment Failure Rate,0.34%,%,,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,Reflects hard failures at authorization; excludes soft declines resolved within 24 hours.,True,False
+ClearPay,ClearPay Technologies Ltd.,,Reconciliation Accuracy Rate,99.87%,%,,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ClearPay,ClearPay Technologies Ltd.,,Reconciliation Accuracy Rate,99.84%,%,,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ClearPay,ClearPay Technologies Ltd.,,API Uptime (SLA: 99.9%),99.94%,%,,2,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ClearPay,ClearPay Technologies Ltd.,,API Uptime (SLA: 99.9%),99.91%,%,,1,2025,quarterly,ClearPay_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ConstructIQ,ConstructIQ Solutions Inc.,arr,Annual Recurring Revenue,$18.6M,M,USD,2,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,"ARR reflects signed, active contracts only; excludes month-to-month arrangements (<2% of accounts).",False,False
+ConstructIQ,ConstructIQ Solutions Inc.,arr,Annual Recurring Revenue,$17.1M,M,USD,1,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,"ARR reflects signed, active contracts only; excludes month-to-month arrangements (<2% of accounts).",False,False
+ConstructIQ,ConstructIQ Solutions Inc.,revenue,Quarterly Recognized Revenue,$4.5M,M,USD,2,2025,quarterly,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,revenue,Quarterly Recognized Revenue,$4.2M,M,USD,1,2025,quarterly,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,gross_margin,Gross Margin,71%,%,,2,2025,quarterly,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,gross_margin,Gross Margin,70%,%,,1,2025,quarterly,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,net_revenue_retention,Net Revenue Retention (LTM),112%,%,,2,2025,ltm,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,Net Revenue Retention computed on a last-twelve-months basis.,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,net_revenue_retention,Net Revenue Retention (LTM),110%,%,,1,2025,ltm,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,Net Revenue Retention computed on a last-twelve-months basis.,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,logo_churn,Logo Churn (LTM),6.3%,%,,2,2025,ltm,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,logo_churn,Logo Churn (LTM),6.8%,%,,1,2025,ltm,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,,Total Paying Accounts,834,count,,2,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ConstructIQ,ConstructIQ Solutions Inc.,,Total Paying Accounts,798,count,,1,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ConstructIQ,ConstructIQ Solutions Inc.,,Avg. Modules per Account,2.4,,,2,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ConstructIQ,ConstructIQ Solutions Inc.,,Avg. Modules per Account,2.1,,,1,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ConstructIQ,ConstructIQ Solutions Inc.,headcount,Total Headcount,89,count,,2,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,headcount,Total Headcount,84,count,,1,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,cash,Cash & Equivalents,$11.2M,M,USD,2,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,cash,Cash & Equivalents,$12.1M,M,USD,1,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,net_burn,Quarterly Net Burn,($0.91M),M,USD,2,2025,quarterly,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,net_burn,Quarterly Net Burn,($0.97M),M,USD,1,2025,quarterly,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+ConstructIQ,ConstructIQ Solutions Inc.,,Monthly Active Projects (avg.),"12,400",count,,2,2025,monthly,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ConstructIQ,ConstructIQ Solutions Inc.,,Daily Active Users / Licensed Seats,58%,%,,2,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,Daily Active User rate is a 30-day trailing average at period end.,True,False
+ConstructIQ,ConstructIQ Solutions Inc.,,Documents Processed (QTD),2.1M,M,USD,2,2025,quarterly,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ConstructIQ,ConstructIQ Solutions Inc.,,Safety Inspection Completions (QTD),"94,000",count,,2,2025,quarterly,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ConstructIQ,ConstructIQ Solutions Inc.,,Subcontractor Portal Connections,"3,810",count,,2,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+ConstructIQ,ConstructIQ Solutions Inc.,,Weighted pipeline,$6.4M,M,USD,2,2025,point_in_time,ConstructIQ_Q2_2025.pdf,standalone,Q2 2025,1,commentary,,True,False
+ApexFreight,FleetLink Logistics Network,,Completed Shipments,1.17M,M,,1,2025,quarterly,FleetLink_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+ApexFreight,FleetLink Logistics Network,,Active Shippers,"3,310",count,,1,2025,point_in_time,FleetLink_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+ApexFreight,FleetLink Logistics Network,,Active Carriers,"7,550",count,,1,2025,point_in_time,FleetLink_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+ApexFreight,FleetLink Logistics Network,,Average Take Rate,11.0%,%,,1,2025,quarterly,FleetLink_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+ApexFreight,FleetLink Logistics Network,revenue,Gross Transaction Revenue,8.9M,M,USD,1,2025,quarterly,FleetLink_Q1_2025.pdf,standalone,Q1 2025,1,table,Gross Transaction Revenue reflects all fees earned on completed shipments; may differ from prior 'Platform Revenue' label.,False,False
+ApexFreight,FleetLink Logistics Network,gross_margin,Gross Margin,52%,%,,1,2025,quarterly,FleetLink_Q1_2025.pdf,standalone,Q1 2025,1,table,,False,False
+ApexFreight,FleetLink Logistics Network,,Contribution Margin / Shipment,$2.19,,USD,1,2025,quarterly,FleetLink_Q1_2025.pdf,standalone,Q1 2025,1,table,"Contribution Margin per Shipment is post-carrier-cost, pre-overhead allocation.",True,False
+ApexFreight,FleetLink Logistics Network,,Marketing Spend as % of Revenue,17%,%,,1,2025,quarterly,FleetLink_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+ApexFreight,FleetLink Logistics Network,,"Support Tickets / 1,000 Shipments",14.9,count,,1,2025,quarterly,FleetLink_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+ApexFreight,FleetLink Logistics Network,,On-Time Delivery Rate,95.4%,%,,1,2025,quarterly,FleetLink_Q1_2025.pdf,standalone,Q1 2025,1,commentary,Disclosed in commentary rather than the metrics table pending a format review.,True,False
+ApexFreight,FleetLink Logistics Network,headcount,Headcount,199,count,,1,2025,point_in_time,FleetLink_Q1_2025.pdf,standalone,Q1 2025,1,commentary,Team ended the quarter at 199 employees; headcount disclosed in commentary and not tabled this quarter.,False,False
+ApexFreight,FleetLink Logistics Network,,Completed Shipments,1.07M,M,,4,2024,quarterly,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+ApexFreight,FleetLink Logistics Network,,Active Shippers,"3,180",count,,4,2024,point_in_time,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+ApexFreight,FleetLink Logistics Network,,Active Carriers,"7,210",count,,4,2024,point_in_time,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+ApexFreight,FleetLink Logistics Network,,On-Time Delivery Rate,94.6%,%,,4,2024,quarterly,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,table,Carrier-reported with a 48-hour grace window per service agreement.,True,False
+ApexFreight,FleetLink Logistics Network,,Average Take Rate,10.8%,%,,4,2024,quarterly,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,table,Computed on recognized GMV net of disputed transactions.,True,False
+ApexFreight,FleetLink Logistics Network,revenue,Platform Revenue (recognized),9.0M,M,,4,2024,quarterly,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+ApexFreight,FleetLink Logistics Network,gross_margin,Gross Margin,51%,%,,4,2024,quarterly,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+ApexFreight,FleetLink Logistics Network,,Contribution Margin / Shipment,$2.10,,USD,4,2024,quarterly,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,table,"Post-carrier-cost, pre-overhead allocation.",True,False
+ApexFreight,FleetLink Logistics Network,,Marketing Spend as % of Revenue,18%,%,,4,2024,quarterly,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+ApexFreight,FleetLink Logistics Network,,"Support Tickets / 1,000 Shipments",15.8,count,,4,2024,quarterly,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+ApexFreight,FleetLink Logistics Network,headcount,Total Headcount,196,count,,4,2024,point_in_time,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,table,At quarter-end.,False,False
+ApexFreight,FleetLink Logistics Network,,Non-cash D&A;,0.9M,M,,4,2024,quarterly,FleetLink_Q4_2024.pdf,standalone,Q4 2024,1,footnote,,True,False
+LendBridge,LendBridge Capital Corp.,revenue,Recognized Revenue,$12.1M,M,USD,1,2025,quarterly,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,,Interest Expense,($3.2M),M,USD,1,2025,quarterly,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Net Interest Margin,9.3%,%,,1,2025,quarterly,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Fee & Ancillary Income,$1.0M,M,USD,1,2025,quarterly,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,gross_margin,Gross Margin,61%,%,,1,2025,quarterly,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,,Total Loan Book (gross),$302M,M,USD,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Active Borrowers,"1,380",count,,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Average Loan Size,$81k,k,USD,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Credit Loss Rate (LTM),3.3%,%,,1,2025,ltm,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,Footnote states: Credit Loss Rate is on a last-twelve-months (LTM) basis; net of recoveries.,True,False
+LendBridge,LendBridge Capital Corp.,,Balance Sheet Leverage,2.8x,x,,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Senior Covenant Headroom,+132bps,bps,,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,headcount,Total Headcount,182,count,,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,,Services,$114M,M,USD,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,Sector Outstanding Balance; portfolio sector mix.,True,False
+LendBridge,LendBridge Capital Corp.,,11.8%,11.8%,%,,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,Avg. Loan Yield for Services; portfolio sector mix.,True,False
+LendBridge,LendBridge Capital Corp.,,Manufacturing,$78M,M,USD,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,Sector Outstanding Balance; portfolio sector mix.,True,False
+LendBridge,LendBridge Capital Corp.,,11.4%,11.4%,%,,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,Avg. Loan Yield for Manufacturing; portfolio sector mix.,True,False
+LendBridge,LendBridge Capital Corp.,,Retail,$53M,M,USD,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,Sector Outstanding Balance; portfolio sector mix.,True,False
+LendBridge,LendBridge Capital Corp.,,12.3%,12.3%,%,,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,Avg. Loan Yield for Retail; portfolio sector mix.,True,False
+LendBridge,LendBridge Capital Corp.,,Hospitality,$37M,M,USD,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,Sector Outstanding Balance; portfolio sector mix.,True,False
+LendBridge,LendBridge Capital Corp.,,13.1%,13.1%,%,,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,Avg. Loan Yield for Hospitality; portfolio sector mix.,True,False
+LendBridge,LendBridge Capital Corp.,,Other,$20M,M,USD,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,table,Sector Outstanding Balance; portfolio sector mix.,True,False
+LendBridge,LendBridge Capital Corp.,,11.9%,11.9%,%,,1,2025,point_in_time,LendBridge_Q1_2025.pdf,standalone,Q1 2025,1,commentary,Aggregate book yield averaged 11.9% in Q1 2025. Footnote states: Avg. Loan Yield is computed as annualized interest income divided by average outstanding balance per sector.,True,False
+LendBridge,LendBridge Capital Corp.,revenue,Recognized Revenue,$10.1M,M,USD,2,2024,quarterly,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,,Interest Expense,($2.9M),M,USD,2,2024,quarterly,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Net Interest Margin,8.6%,%,,2,2024,quarterly,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Fee & Other Income,$0.7M,M,USD,2,2024,quarterly,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,gross_margin,Gross Margin,58%,%,,2,2024,quarterly,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,Gross Margin reflects interest income net of cost of funds only.,False,False
+LendBridge,LendBridge Capital Corp.,,Pre-Provision Operating Margin,29%,%,,2,2024,quarterly,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,Excludes loan loss provisions and non-recurring items.,True,False
+LendBridge,LendBridge Capital Corp.,,Total Loan Book (gross),$258M,M,USD,2,2024,point_in_time,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Active Borrowers,"1,180",count,,2,2024,point_in_time,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Average Loan Size,$72k,k,USD,2,2024,point_in_time,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Net Charge-off Rate (LTM),4.2%,%,,2,2024,ltm,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,Net Charge-off Rate is on a last-twelve-months (LTM) basis; includes write-offs net of recoveries.,True,False
+LendBridge,LendBridge Capital Corp.,,Balance Sheet Leverage,2.8x,x,,2,2024,point_in_time,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Senior Covenant Headroom,+140bps,bps,,2,2024,point_in_time,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,Measured relative to minimum NIM covenant of 7.5%.,True,False
+LendBridge,LendBridge Capital Corp.,headcount,Total Headcount,162,count,,2,2024,point_in_time,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,,Non-cash fair value adjustment on warrant portfolio,+${0.4}M,M,USD,2,2024,quarterly,LendBridge_Q2_2024.pdf,standalone,Q2 2024,1,commentary,Non-core item.,True,False
+LendBridge,LendBridge Capital Corp.,revenue,Recognized Revenue,$12.7M,M,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,,Interest Expense,($3.4M),M,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Net Interest Margin,9.4%,%,,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Fee & Other Income,$1.1M,M,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,gross_margin,Gross Margin,62%,%,,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,Gross Margin reflects interest income net of cost of funds; excludes provisions and operating expenses.,False,False
+LendBridge,LendBridge Capital Corp.,,Pre-Provision Operating Margin,34%,%,,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,Pre-Provision Operating Margin reinstated per updated board reporting policy; equivalent to 'Adjusted Operating Margin' in Q3 2024.,True,False
+LendBridge,LendBridge Capital Corp.,,Provision Coverage Ratio,2.4x,x,,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,Provision Coverage Ratio = total loan loss reserves / LTM net charge-offs; introduced Q2 2025. Represents total loan loss reserves as a multiple of LTM net charge-offs.,True,False
+LendBridge,LendBridge Capital Corp.,,Total Loan Book (gross),$316M,M,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Active Borrowers,"1,420",count,,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Average Loan Size,$84k,k,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Net Charge-off Rate (LTM),3.1%,%,,2,2025,ltm,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,Net Charge-off Rate is on a last-twelve-months (LTM) basis; equivalent to 'Credit Loss Rate' used in Q3–Q4 2024.,True,False
+LendBridge,LendBridge Capital Corp.,,Balance Sheet Leverage,2.7x,x,,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Senior Covenant Headroom,+148bps,bps,,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,headcount,Total Headcount,188,count,,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,,Services,$120M,M,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,Portfolio Sector Mix – Q2 2025; Outstanding Balance; Share of Book 38%.,True,False
+LendBridge,LendBridge Capital Corp.,,Manufacturing,$82M,M,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,Portfolio Sector Mix – Q2 2025; Outstanding Balance; Share of Book 26%.,True,False
+LendBridge,LendBridge Capital Corp.,,Retail,$54M,M,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,Portfolio Sector Mix – Q2 2025; Outstanding Balance; Share of Book 17%.,True,False
+LendBridge,LendBridge Capital Corp.,,Hospitality,$38M,M,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,Portfolio Sector Mix – Q2 2025; Outstanding Balance; Share of Book 12%.,True,False
+LendBridge,LendBridge Capital Corp.,,Other,$22M,M,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,1,table,Portfolio Sector Mix – Q2 2025; Outstanding Balance; Share of Book 7%.,True,False
+LendBridge,LendBridge Capital Corp.,,Non-cash fair value adjustment on warrant portfolio,+$0.6M,M,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,2,commentary,,True,False
+LendBridge,LendBridge Capital Corp.,,One-time legal settlement expense accrual,($0.3M),M,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,2,commentary,,True,False
+LendBridge,LendBridge Capital Corp.,,Reported basic EPS,$0.11,,USD,2,2025,quarterly,LendBridge_Q2_2025.pdf,standalone,Q2 2025,2,commentary,Reported basic EPS for the period: $0.11 (unaudited).,True,False
+LendBridge,LendBridge Capital Corp.,revenue,Recognized Revenue,$10.8M,M,USD,3,2024,quarterly,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,,Interest Expense,($3.0M),M,USD,3,2024,quarterly,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Net Interest Margin,8.9%,%,,3,2024,quarterly,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Fee & Ancillary Income,$0.8M,M,USD,3,2024,quarterly,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,"Includes origination fees, prepayment premiums, and treasury service charges.",True,False
+LendBridge,LendBridge Capital Corp.,gross_margin,Gross Margin,59%,%,,3,2024,quarterly,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,,Adjusted Operating Margin,31%,%,,3,2024,quarterly,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,Adjusted Operating Margin excludes loan loss provisions and non-recurring items; formerly 'Pre-Provision Operating Margin'.,True,False
+LendBridge,LendBridge Capital Corp.,,Total Loan Book (gross),$274M,M,USD,3,2024,point_in_time,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Active Borrowers,"1,250",count,,3,2024,point_in_time,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Average Loan Size,$75k,k,USD,3,2024,point_in_time,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Net Charge-off Rate (LTM),3.9%,%,,3,2024,ltm,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,Net Charge-off Rate is on a last-twelve-months (LTM) basis.,True,False
+LendBridge,LendBridge Capital Corp.,,Balance Sheet Leverage,2.9x,x,,3,2024,point_in_time,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Senior Covenant Headroom,+125bps,bps,,3,2024,point_in_time,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,headcount,Total Headcount,169,count,,3,2024,point_in_time,LendBridge_Q3_2024.pdf,standalone,Q3 2024,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,revenue,Recognized Revenue,$11.4M,M,USD,4,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,,Interest Expense,($3.1M),M,USD,4,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Net Interest Margin,9.1%,%,,4,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Fee & Ancillary Income,$0.9M,M,USD,4,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,gross_margin,Gross Margin,60%,%,,4,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,Gross Margin reflects net interest income net of cost of funds; excludes provisions and operating expenses.,False,False
+LendBridge,LendBridge Capital Corp.,,Total Loan Book (gross),$291M,M,USD,4,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Active Borrowers,"1,310",count,,4,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Average Loan Size,$78k,k,USD,4,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Credit Loss Rate (LTM),3.6%,%,,4,2024,ltm,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,Credit Loss Rate replaces 'Net Charge-off Rate' terminology; calculated equivalently on a last-twelve-months basis.,True,False
+LendBridge,LendBridge Capital Corp.,,Balance Sheet Leverage,2.9x,x,,4,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,,Senior Covenant Headroom,+118bps,bps,,4,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+LendBridge,LendBridge Capital Corp.,headcount,Total Headcount,175,count,,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+LendBridge,LendBridge Capital Corp.,,Average loan size,$78k,k,USD,4,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,"Commentary states average loan size increased to $78k in Q4 2024, up from $74k in Q3 2024.",True,False
+LendBridge,LendBridge Capital Corp.,,average of $74k,$74k,k,USD,3,2024,quarterly,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,"Commentary states average loan size increased to $78k in Q4 2024, up from an average of $74k in Q3 2024.",True,False
+LendBridge,LendBridge Capital Corp.,,$291M,$291M,M,USD,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Commentary states total gross outstanding balances reached $291M at quarter end.,True,False
+LendBridge,LendBridge Capital Corp.,,Services,37%,%,,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Commentary states Services segment accounts for approximately 37% of outstanding balances ($108M).,True,False
+LendBridge,LendBridge Capital Corp.,,$108M,$108M,M,USD,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Commentary states Services segment accounts for approximately 37% of outstanding balances ($108M).,True,False
+LendBridge,LendBridge Capital Corp.,,Manufacturing,26%,%,,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Commentary states Manufacturing accounts for 26% of outstanding balances ($74M).,True,False
+LendBridge,LendBridge Capital Corp.,,$74M,$74M,M,USD,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Commentary states Manufacturing accounts for 26% of outstanding balances ($74M).,True,False
+LendBridge,LendBridge Capital Corp.,,Retail,18%,%,,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Commentary states Retail accounts for 18% of outstanding balances ($52M).,True,False
+LendBridge,LendBridge Capital Corp.,,$52M,$52M,M,USD,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Commentary states Retail accounts for 18% of outstanding balances ($52M).,True,False
+LendBridge,LendBridge Capital Corp.,,Hospitality,13%,%,,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Commentary states Hospitality accounts for 13% of outstanding balances ($37M).,True,False
+LendBridge,LendBridge Capital Corp.,,$37M,$37M,M,USD,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Commentary states Hospitality accounts for 13% of outstanding balances ($37M).,True,False
+LendBridge,LendBridge Capital Corp.,,all other sectors,7%,%,,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Commentary states all other sectors are 7% of outstanding balances ($20M).,True,False
+LendBridge,LendBridge Capital Corp.,,$20M,$20M,M,USD,4,2024,point_in_time,LendBridge_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Commentary states all other sectors are 7% of outstanding balances ($20M).,True,False
+MediSight,MediSight Data Platform Inc.,revenue,Recognized Revenue,6.3M,M,,1,2025,quarterly,MediSight_Q1_2025.pdf,standalone,Q1 2025,1,table,"Operating commentary states recognized revenue in the three months ended March 31, 2025 totalled 6.3M.",False,False
+MediSight,MediSight Data Platform Inc.,gross_margin,Gross Margin,76%,%,,1,2025,quarterly,MediSight_Q1_2025.pdf,standalone,Q1 2025,1,table,"Footnote says Gross Margin excludes implementation and customer success costs, reported as operating expenses.",False,False
+MediSight,MediSight Data Platform Inc.,arr,Contracted Annual Recurring Revenue,26.1M,M,,1,2025,point_in_time,MediSight_Q1_2025.pdf,standalone,Q1 2025,1,table,Footnote says 'Contracted Annual Recurring Revenue' is equivalent to 'Contracted ARR' used in prior periods.,False,False
+MediSight,MediSight Data Platform Inc.,,ARR Growth (YoY),34%,%,,1,2025,point_in_time,MediSight_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+MediSight,MediSight Data Platform Inc.,,ARR from Existing Accounts,85%,%,,1,2025,point_in_time,MediSight_Q1_2025.pdf,standalone,Q1 2025,1,table,Operating commentary states 85% of ARR attributable to expansion within existing health systems.,True,False
+MediSight,MediSight Data Platform Inc.,,Avg. Remaining Contract Term,3.2 years,years,,1,2025,point_in_time,MediSight_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+MediSight,MediSight Data Platform Inc.,headcount,114 employees,114,count,,1,2025,point_in_time,MediSight_Q1_2025.pdf,standalone,Q1 2025,1,commentary,"The company ended the period with 114 employees, up from 108 at December 31, 2024.",False,False
+MediSight,MediSight Data Platform Inc.,,Capitalized development costs,0.5M,M,,1,2025,quarterly,MediSight_Q1_2025.pdf,standalone,Q1 2025,1,footnote,Other Financial Information: capitalized development costs in the period were 0.5M.,True,False
+MediSight,MediSight Data Platform Inc.,revenue,Recognized Revenue,6.8M,M,,2,2025,quarterly,MediSight_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+MediSight,MediSight Data Platform Inc.,gross_margin,Gross Margin,77%,%,,2,2025,quarterly,MediSight_Q2_2025.pdf,standalone,Q2 2025,1,table,Gross Margin excludes implementation and customer success costs.,False,False
+MediSight,MediSight Data Platform Inc.,arr,Contracted ARR (end of period),27.9M,M,,2,2025,point_in_time,MediSight_Q2_2025.pdf,standalone,Q2 2025,1,table,"Contracted ARR represents annualized value of signed, active contracts; excludes renewals under negotiation.",False,False
+MediSight,MediSight Data Platform Inc.,,ARR Growth (YoY),31%,%,,2,2025,point_in_time,MediSight_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+MediSight,MediSight Data Platform Inc.,,Expansion ARR as % of Total ARR,87%,%,,2,2025,point_in_time,MediSight_Q2_2025.pdf,standalone,Q2 2025,1,table,Expansion ARR % is equivalent to 'ARR from Existing Accounts' metric used in prior quarters.,True,False
+MediSight,MediSight Data Platform Inc.,headcount,Total Headcount,121,count,,2,2025,point_in_time,MediSight_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+MediSight,MediSight Data Platform Inc.,logo_churn,No material customer churn,No material customer churn was observed during the quarter.,,,2,2025,quarterly,MediSight_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Management stated no material customer churn was observed during the quarter.,False,False
+MediSight,MediSight Data Platform Inc.,,Capitalized development costs,0.5M,M,,2,2025,quarterly,MediSight_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Capitalized development costs in Q2 2025 amounted to 0.5M.,True,False
+MediSight,MediSight Data Platform Inc.,,Average remaining contract term,3.2 years,years,,1,2025,point_in_time,MediSight_Q2_2025.pdf,standalone,Q2 2025,1,footnote,Last disclosed as 3.2 years in Q1 2025; not reported this quarter.,True,False
+MediSight,MediSight Data Platform Inc.,revenue,Recognized Revenue,6.1M,M,,4,2024,quarterly,MediSight_Q4_2024.pdf,standalone,Q4 2024,1,table,Recognized revenue for Q4 2024 totalled 6.1M.,False,False
+MediSight,MediSight Data Platform Inc.,gross_margin,Gross Margin,75%,%,,4,2024,quarterly,MediSight_Q4_2024.pdf,standalone,Q4 2024,1,table,Gross Margin excludes implementation and customer success costs.,False,False
+MediSight,MediSight Data Platform Inc.,arr,Contracted ARR (end of period),24.5M,M,,4,2024,point_in_time,MediSight_Q4_2024.pdf,standalone,Q4 2024,1,table,"Contracted ARR represents annualized value of signed, active contracts.",False,False
+MediSight,MediSight Data Platform Inc.,,ARR Growth (YoY),38%,%,,4,2024,point_in_time,MediSight_Q4_2024.pdf,standalone,Q4 2024,1,table,ARR Growth (YoY) is computed versus the equivalent period of the prior fiscal year.,True,False
+MediSight,MediSight Data Platform Inc.,,ARR from Existing Accounts,82%,%,,4,2024,point_in_time,MediSight_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+MediSight,MediSight Data Platform Inc.,,Avg. Remaining Contract Term,3.1 years,years,,4,2024,point_in_time,MediSight_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+MediSight,MediSight Data Platform Inc.,headcount,Total Headcount,108,count,,4,2024,point_in_time,MediSight_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+MediSight,MediSight Data Platform Inc.,,Capitalized software development costs,0.4M,M,,4,2024,quarterly,MediSight_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Reported under Other Financial Information.,True,False
+NovaCloud,NovaCloud Analytics Inc.,revenue,Recognized Revenue (USD),$7.9M,M,USD,1,2025,quarterly,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,arr,End-of-Period ARR,$31.6M,M,USD,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,gross_margin,Gross Margin,77%,%,,1,2025,quarterly,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,net_revenue_retention,NRR (LTM),121%,%,,1,2025,ltm,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,(1) NRR (Net Revenue Retention) is equivalent to Net Dollar Retention in prior reporting periods.,False,False
+NovaCloud,NovaCloud Analytics Inc.,logo_churn,Logo Churn (LTM),6.1%,%,,1,2025,ltm,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,(4) Logo Churn is presented on a last-twelve-months (LTM) basis.,False,False
+NovaCloud,NovaCloud Analytics Inc.,,ARR per Full-Time Employee,$234k,k,USD,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,(2) ARR per Full-Time Employee is a new efficiency metric introduced in Q1 2025 board reporting.,True,False
+NovaCloud,NovaCloud Analytics Inc.,cash,Cash Balance,$21.3M,M,USD,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,net_burn,Monthly Net Burn,($0.82M),M,USD,1,2025,monthly,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,headcount,Total Headcount,135,count,,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,,new logo additions,13,count,,1,2025,quarterly,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,commentary,"Stated as ""13 in the quarter"".",True,False
+NovaCloud,NovaCloud Analytics Inc.,,Expansion revenue,$1.7M,M,USD,1,2025,quarterly,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,commentary,Stated as representing 22% of total recognized revenue.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Infrastructure costs,approximately 24% of revenue,%,,1,2025,quarterly,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,commentary,Described as declining to approximately 24% of revenue.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Pipeline Stage Count,33,count,,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,Pipeline table; stage = Qualified.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Total ACV,$9.1M,M,USD,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,Pipeline table; stage = Qualified.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Commit ACV,$3.8M,M,USD,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,Pipeline table; stage = Qualified. Commit ACV reflects management's probability-weighted view; not a contractual commitment.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Pipeline Stage Count,17,count,,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,Pipeline table; stage = Proposal / Negotiation.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Total ACV,$6.8M,M,USD,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,Pipeline table; stage = Proposal / Negotiation.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Commit ACV,$3.4M,M,USD,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,Pipeline table; stage = Proposal / Negotiation. Commit ACV reflects management's probability-weighted view; not a contractual commitment.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Pipeline Stage Count,5,count,,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,Pipeline table; stage = Verbal Commit.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Total ACV,$2.6M,M,USD,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,Pipeline table; stage = Verbal Commit.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Commit ACV,$1.9M,M,USD,1,2025,point_in_time,NovaCloud_Q1_2025.pdf,standalone,Q1 2025,1,table,Pipeline table; stage = Verbal Commit. Commit ACV reflects management's probability-weighted view; not a contractual commitment.,True,False
+NovaCloud,NovaCloud Analytics Inc.,revenue,Total Billings (USD),$5.8M,M,USD,2,2024,quarterly,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,Footnote states Total Billings includes all revenue recognized in the period under ASC 606.,False,False
+NovaCloud,NovaCloud Analytics Inc.,arr,End-of-Period ARR,$24.1M,M,USD,2,2024,point_in_time,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,gross_margin,Gross Margin,74%,%,,2,2024,quarterly,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,net_revenue_retention,Net Dollar Retention (LTM),115%,%,,2,2024,ltm,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,Net Dollar Retention and Logo Churn are presented on a last-twelve-months (LTM) basis.,False,False
+NovaCloud,NovaCloud Analytics Inc.,logo_churn,Logo Churn Rate (LTM),7.8%,%,,2,2024,ltm,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,Net Dollar Retention and Logo Churn are presented on a last-twelve-months (LTM) basis.,False,False
+NovaCloud,NovaCloud Analytics Inc.,cash,Cash Balance,$29.5M,M,USD,2,2024,point_in_time,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,net_burn,Monthly Net Burn,($0.98M),M,USD,2,2024,monthly,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,Monthly Net Burn reflects operating cash outflows only; excludes one-time items.,False,False
+NovaCloud,NovaCloud Analytics Inc.,,Cash Runway,~30 months,months,,2,2024,point_in_time,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,,True,False
+NovaCloud,NovaCloud Analytics Inc.,headcount,Total Headcount,112,count,,2,2024,point_in_time,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,,New logo additions,8,count,,2,2024,quarterly,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,commentary,,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Expansion revenue,$0.8M,M,USD,2,2024,quarterly,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,commentary,Expansion revenue contributed to Total Billings.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,top 10 accounts,~31% of ARR,%,,2,2024,point_in_time,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,commentary,Customer concentration metric.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Cloud infrastructure costs,approximately 28% of Total Billings,%,,2,2024,quarterly,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,commentary,,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Weighted Value,$3.1M,M,USD,2,2024,point_in_time,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,Pipeline figures reflect management estimates; Weighted Value applies stage-level probability haircuts.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Total Pipeline,$7.4M,M,USD,2,2024,point_in_time,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,Pipeline figures reflect management estimates; Weighted Value applies stage-level probability haircuts.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Weighted Value,$2.8M,M,USD,2,2024,point_in_time,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,Pipeline figures reflect management estimates; Weighted Value applies stage-level probability haircuts.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Total Pipeline,$5.6M,M,USD,2,2024,point_in_time,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,Pipeline figures reflect management estimates; Weighted Value applies stage-level probability haircuts.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Weighted Value,$1.5M,M,USD,2,2024,point_in_time,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,Pipeline figures reflect management estimates; Weighted Value applies stage-level probability haircuts.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Total Pipeline,$2.1M,M,USD,2,2024,point_in_time,NovaCloud_Q2_2024.pdf,standalone,Q2 2024,1,table,Pipeline figures reflect management estimates; Weighted Value applies stage-level probability haircuts.,True,False
+NovaCloud,NovaCloud Analytics Inc.,revenue,Recognized Revenue (USD),$8.4M,M,USD,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,arr,ARR (End of Period),$34.2M,M,USD,2,2025,point_in_time,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,gross_margin,Gross Margin,78%,%,,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,net_revenue_retention,Net Dollar Retention,123%,%,,2,2025,ltm,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,Net Dollar Retention is presented on a last-twelve-months basis; equivalent to NRR in Q1 2025 reporting.,False,False
+NovaCloud,NovaCloud Analytics Inc.,logo_churn,Logo Churn (LTM),5.8%,%,,2,2025,ltm,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,,ARR per Full-Time Employee,$241k,k,USD,2,2025,point_in_time,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,ARR per Full-Time Employee introduced as a recurring board metric in Q1 2025.,True,False
+NovaCloud,NovaCloud Analytics Inc.,cash,Cash Balance,$19.6M,M,USD,2,2025,point_in_time,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,net_burn,Monthly Net Burn,($0.75M),M,USD,2,2025,monthly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,Monthly Net Burn reflects operating cash outflows; excludes non-cash stock-based compensation of $0.38M.,False,False
+NovaCloud,NovaCloud Analytics Inc.,headcount,Total Headcount,142,count,,2,2025,point_in_time,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,revenue,Recognized Revenue,$8.4M,M,USD,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,commentary,"Recognized Revenue in Q2 2025 was $8.4M, up 6% quarter-over-quarter and 32% year-over-year.",False,True
+NovaCloud,NovaCloud Analytics Inc.,arr,End-of-period ARR,$34.2M,M,USD,2,2025,point_in_time,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,commentary,End-of-period ARR reached $34.2M.,False,True
+NovaCloud,NovaCloud Analytics Inc.,gross_margin,Gross margin,78%,%,,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Gross margin improved to 78% as NovaCloud continued optimising its cloud infrastructure.,False,True
+NovaCloud,NovaCloud Analytics Inc.,,Expansion revenue,$2.0M,M,USD,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,commentary,"Expansion revenue of $2.0M represented 24% of recognized revenue, the highest expansion mix to date.",True,False
+NovaCloud,NovaCloud Analytics Inc.,,recognized revenue,24%,%,,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,commentary,"Expansion revenue of $2.0M represented 24% of recognized revenue, the highest expansion mix to date.",True,False
+NovaCloud,NovaCloud Analytics Inc.,,Qualified,36,count,,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,Stage Opportunities pipeline table.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Total Pipeline,$9.8M,M,USD,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,Stage Opportunities pipeline table.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Weighted,$4.2M,M,USD,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,Stage Opportunities pipeline table.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Proposal / Negotiation,18,count,,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,Stage Opportunities pipeline table.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Total Pipeline,$7.1M,M,USD,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,Stage Opportunities pipeline table.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Weighted,$3.6M,M,USD,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,Stage Opportunities pipeline table.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Verbal Commit,6,count,,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,Stage Opportunities pipeline table.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Total Pipeline,$2.9M,M,USD,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,Stage Opportunities pipeline table.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Weighted,$2.0M,M,USD,2,2025,quarterly,NovaCloud_Q2_2025.pdf,standalone,Q2 2025,1,table,Stage Opportunities pipeline table.,True,False
+NovaCloud,NovaCloud Analytics Inc.,revenue,Recognized Revenue (USD),$6.5M,M,USD,3,2024,quarterly,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,table,Recognized Revenue is reported under ASC 606 on a ratable basis.,False,False
+NovaCloud,NovaCloud Analytics Inc.,arr,End-of-Period ARR,$26.8M,M,USD,3,2024,point_in_time,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,gross_margin,Gross Margin,75%,%,,3,2024,quarterly,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,net_revenue_retention,Net Dollar Retention (LTM),117%,%,,3,2024,ltm,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,table,Net Dollar Retention and Logo Churn are on a last-twelve-months (LTM) basis.,False,False
+NovaCloud,NovaCloud Analytics Inc.,logo_churn,Logo Churn Rate (LTM),7.2%,%,,3,2024,ltm,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,table,Net Dollar Retention and Logo Churn are on a last-twelve-months (LTM) basis.,False,False
+NovaCloud,NovaCloud Analytics Inc.,cash,Cash Balance,$26.6M,M,USD,3,2024,point_in_time,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,net_burn,Monthly Net Burn,($0.95M),M,USD,3,2024,monthly,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,,Cash Runway,~28 months,months,,3,2024,point_in_time,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,table,,True,False
+NovaCloud,NovaCloud Analytics Inc.,headcount,Total Headcount,120,count,,3,2024,point_in_time,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,revenue,Recognized Revenue,$6.5M,M,USD,3,2024,quarterly,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,commentary,Recognized Revenue of $6.5M in Q3 2024 was up 12% quarter-over-quarter.,False,True
+NovaCloud,NovaCloud Analytics Inc.,,Expansion revenue,$1.1M,M,USD,3,2024,quarterly,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,commentary,Expansion revenue totalled $1.1M.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,top 10 accounts,~30% of ARR,%,,3,2024,point_in_time,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,commentary,Customer concentration risk persists; top 10 accounts ~30% of ARR.,True,False
+NovaCloud,NovaCloud Analytics Inc.,,ACV potential,above $80k,,USD,3,2024,point_in_time,NovaCloud_Q3_2024.pdf,standalone,Q3 2024,1,commentary,"selective approach to new logo pursuit, focusing sales capacity on accounts with ACV potential above $80k.",True,False
+NovaCloud,NovaCloud Analytics Inc.,revenue,Net Revenue (USD),$7.2M,M,USD,4,2024,quarterly,NovaCloud_Q4_2024.pdf,standalone,Q4 2024,1,table,Net Revenue is equivalent to Recognized Revenue in prior periods; terminology updated for board reporting.,False,False
+NovaCloud,NovaCloud Analytics Inc.,arr,End-of-Period ARR,$29.1M,M,USD,4,2024,point_in_time,NovaCloud_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,logo_churn,Logo Churn Rate (LTM),6.5%,%,,4,2024,ltm,NovaCloud_Q4_2024.pdf,standalone,Q4 2024,1,table,Logo Churn is on a last-twelve-months (LTM) basis.,False,False
+NovaCloud,NovaCloud Analytics Inc.,cash,Cash Balance,$24.0M,M,USD,4,2024,point_in_time,NovaCloud_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,net_burn,Monthly Net Burn,($0.88M),M,USD,4,2024,monthly,NovaCloud_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,,Cash Runway,~27 months,months,,4,2024,point_in_time,NovaCloud_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+NovaCloud,NovaCloud Analytics Inc.,headcount,Total Headcount,128,count,,4,2024,point_in_time,NovaCloud_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+NovaCloud,NovaCloud Analytics Inc.,gross_margin,Gross margin,76%,%,,4,2024,quarterly,NovaCloud_Q4_2024.pdf,standalone,Q4 2024,1,commentary,"Gross margin came in at 76%, a one-point improvement versus Q3.",False,False
+NovaCloud,NovaCloud Analytics Inc.,net_revenue_retention,Net dollar retention,119%,%,,4,2024,ltm,NovaCloud_Q4_2024.pdf,standalone,Q4 2024,1,commentary,"Net dollar retention on a trailing-twelve-month basis reached 119% in Q4 2024, improving from 116% in Q3 2024.",False,False
+NovaCloud,NovaCloud Analytics Inc.,,new logo additions,11,count,,4,2024,quarterly,NovaCloud_Q4_2024.pdf,standalone,Q4 2024,1,commentary,,True,False
+NovaCloud,NovaCloud Analytics Inc.,,Expansion revenue,$1.4M,M,USD,4,2024,quarterly,NovaCloud_Q4_2024.pdf,standalone,Q4 2024,1,commentary,Expansion revenue of $1.4M was the highest in the company's history to date.,True,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,revenue,Quarterly Revenue,4.7M,M,GBP,1,2025,quarterly,PeopleFlow_Q1_2025.pdf,standalone,Q1 2025,1,table,"Also stated in commentary as 'Quarterly Revenue of 4.7M', up from 4.4M in Q4 2024.",False,True
+PeopleFlow,PeopleFlow HR Systems Ltd.,arr,Subscription ARR (end of period),19.8M,M,GBP,1,2025,point_in_time,PeopleFlow_Q1_2025.pdf,standalone,Q1 2025,1,table,End-of-period Subscription ARR reached 19.8M.,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,gross_margin,Gross Margin,74%,%,,1,2025,quarterly,PeopleFlow_Q1_2025.pdf,standalone,Q1 2025,1,table,"Held at 74% despite ongoing cloud provider migration, expected to conclude in H1 2025.",False,True
+PeopleFlow,PeopleFlow HR Systems Ltd.,net_revenue_retention,Net Pound Retention – NPR (LTM),117%,%,,1,2025,ltm,PeopleFlow_Q1_2025.pdf,standalone,Q1 2025,1,table,(2) Net Pound Retention (NPR) is equivalent to 'Net Dollar Retention' reported in Q4 2024; relabelled to reflect GBP reporting currency.,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,logo_churn,Annual Logo Churn,4.3%,%,,1,2025,ltm,PeopleFlow_Q1_2025.pdf,standalone,Q1 2025,1,table,(4) Logo Churn is annualised on a last-twelve-months basis.,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,,Active Subscriptions,395,count,,1,2025,point_in_time,PeopleFlow_Q1_2025.pdf,standalone,Q1 2025,1,table,(3) 'Active Subscriptions' is equivalent to 'Paying Customer Logos' in prior periods; terminology updated in Q1 2025.,True,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,,Avg. Seats per Customer,144,count,,1,2025,point_in_time,PeopleFlow_Q1_2025.pdf,standalone,Q1 2025,1,table,,True,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,headcount,Total Headcount,92,count,,1,2025,point_in_time,PeopleFlow_Q1_2025.pdf,standalone,Q1 2025,1,table,,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,,Share-based compensation expense,0.36M,M,GBP,1,2025,quarterly,PeopleFlow_Q1_2025.pdf,standalone,Q1 2025,1,footnote,Listed under Non-Core Financial Items.,True,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,revenue,Quarterly Revenue,5.1M,M,GBP,2,2025,quarterly,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,table,Q1 2025 Quarterly Revenue restated from 4.7M to 4.6M.,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,arr,Subscription ARR (end of period),21.4M,M,GBP,2,2025,point_in_time,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,net_revenue_retention,Net Dollar Retention (LTM),118%,%,GBP,2,2025,ltm,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,table,Computed in GBP; label maintained for cross-portfolio comparability.,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,logo_churn,Annual Logo Churn,4.2%,%,GBP,2,2025,ltm,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,,Paying Customer Logos,412,count,GBP,2,2025,point_in_time,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,,Avg. Seats per Customer,146,count,GBP,2,2025,point_in_time,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,,Module Attach Rate,2.3 modules/acct,modules/acct,GBP,2,2025,point_in_time,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,table,Introduced Q2 2025: avg. distinct platform modules per active account.,True,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,headcount,Total Headcount,96,count,GBP,2,2025,point_in_time,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,revenue,Quarterly Revenue,4.6M,M,GBP,1,2025,quarterly,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,footnote,Restated from 4.7M.,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,arr,Subscription ARR,21.4M,M,GBP,2,2025,point_in_time,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,commentary,End-of-period Subscription ARR reached 21.4M versus 19.8M in the prior quarter.,False,True
+PeopleFlow,PeopleFlow HR Systems Ltd.,gross_margin,Gross Margin,73%,%,GBP,2,2025,quarterly,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Stated in commentary; not separately tabled this period.,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,gross_margin,Gross Margin,74%,%,GBP,1,2025,quarterly,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Prior quarter comparison stated in commentary.,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,,Average seats per customer,146,count,GBP,2,2025,point_in_time,PeopleFlow_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Commentary wording: average seats per customer increased to 146.,True,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,revenue,Quarterly Revenue,4.4M,M,GBP,4,2024,quarterly,PeopleFlow_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,arr,Subscription ARR (end of period),18.3M,M,GBP,4,2024,point_in_time,PeopleFlow_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,gross_margin,Gross Margin,74%,%,,4,2024,quarterly,PeopleFlow_Q4_2024.pdf,standalone,Q4 2024,1,table,Gross Margin reflects cloud hosting and third-party data costs only; excludes customer success.,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,net_revenue_retention,Net Dollar Retention (LTM),116%,%,GBP,4,2024,ltm,PeopleFlow_Q4_2024.pdf,standalone,Q4 2024,1,table,Net Dollar Retention (LTM) is computed in GBP; the label is maintained for cross-portfolio comparability.,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,logo_churn,Annual Logo Churn,4.5%,%,,4,2024,ltm,PeopleFlow_Q4_2024.pdf,standalone,Q4 2024,1,table,Logo Churn is annualised on a last-twelve-months basis.,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,,Paying Customer Logos,379,count,,4,2024,point_in_time,PeopleFlow_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,,Avg. Seats per Customer,141,count,,4,2024,point_in_time,PeopleFlow_Q4_2024.pdf,standalone,Q4 2024,1,table,,True,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,headcount,Total Headcount,88,count,,4,2024,point_in_time,PeopleFlow_Q4_2024.pdf,standalone,Q4 2024,1,table,,False,False
+PeopleFlow,PeopleFlow HR Systems Ltd.,,Share-based compensation expense,0.33M,M,GBP,4,2024,quarterly,PeopleFlow_Q4_2024.pdf,standalone,Q4 2024,1,footnote,Non-Core Financial Items; No material FX or restructuring items in Q4 2024.,True,False
+NovaCloud,NovaCloud Analytics Inc.,revenue,Recognized Revenue,$8.4M,M,USD,2,2025,quarterly,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+NovaCloud,NovaCloud Analytics Inc.,arr,Annual Recurring Revenue,$34.2M,M,USD,2,2025,point_in_time,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+NovaCloud,NovaCloud Analytics Inc.,gross_margin,Gross Margin,78%,%,,2,2025,quarterly,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+NovaCloud,NovaCloud Analytics Inc.,net_revenue_retention,Net Dollar Retention,123%,%,,2,2025,ltm,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+NovaCloud,NovaCloud Analytics Inc.,logo_churn,Logo Churn (LTM),5.8%,%,,2,2025,ltm,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+NovaCloud,NovaCloud Analytics Inc.,cash,Cash,$19.6M,M,USD,2,2025,point_in_time,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+NovaCloud,NovaCloud Analytics Inc.,headcount,FTE,142,count,,2,2025,point_in_time,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+MediSight,MediSight Data Platform Inc.,revenue,Recognized Revenue,6.8M,M,USD,2,2025,quarterly,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+MediSight,MediSight Data Platform Inc.,gross_margin,Gross Margin,77%,%,,2,2025,quarterly,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+MediSight,MediSight Data Platform Inc.,,YoY Revenue Growth,11%,%,,2,2025,quarterly,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,True,False
+MediSight,MediSight Data Platform Inc.,headcount,Headcount,121,count,,2,2025,point_in_time,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+MediSight,MediSight Data Platform Inc.,arr,Contracted ARR,27.9M,M,USD,2,2025,point_in_time,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,footnote,"Footnote states: 'Contracted ARR as of June 30, 2025 was 27.9M per the standalone Q2 2025 report.'",False,True
+TalentVault,TalentVault Inc.,arr,Contracted ARR,$22.4M,M,USD,2,2025,point_in_time,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+TalentVault,TalentVault Inc.,revenue,Quarterly Revenue,$5.5M,M,USD,2,2025,quarterly,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+TalentVault,TalentVault Inc.,gross_margin,Gross Margin,76%,%,,2,2025,quarterly,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+TalentVault,TalentVault Inc.,net_revenue_retention,Net Revenue Retention (LTM),119%,%,,2,2025,ltm,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,False,True
+TalentVault,TalentVault Inc.,,Gross Revenue Retention (LTM),91%,%,,2,2025,ltm,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,True,False
+TalentVault,TalentVault Inc.,,Enterprise Logos (>$100k ARR),48,count,,2,2025,point_in_time,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,1,table,,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,net_burn,Monthly Cash Burn,($0.68M),M,USD,2,2025,monthly,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,2,table,Company referred to as 'CarbonTrack' in table; footnote states 'CarbonTrack' refers to CarbonTrack Analytics Corp. throughout this document.,False,True
+CarbonTrack,CarbonTrack Analytics Corp.,arr,ARR,$16.9M,M,USD,2,2025,point_in_time,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,2,table,Company referred to as 'CarbonTrack' in table; footnote states 'CarbonTrack' refers to CarbonTrack Analytics Corp. throughout this document.,False,True
+CarbonTrack,CarbonTrack Analytics Corp.,revenue,Revenue,$4.1M,M,USD,2,2025,quarterly,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,2,table,Company referred to as 'CarbonTrack' in table; footnote states 'CarbonTrack' refers to CarbonTrack Analytics Corp. throughout this document.,False,True
+CarbonTrack,CarbonTrack Analytics Corp.,gross_margin,Gross Margin,73%,%,,2,2025,quarterly,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,2,table,Company referred to as 'CarbonTrack' in table; footnote states 'CarbonTrack' refers to CarbonTrack Analytics Corp. throughout this document.,False,True
+CarbonTrack,CarbonTrack Analytics Corp.,net_revenue_retention,Net Revenue Retention,121%,%,,2,2025,ltm,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,2,table,Company referred to as 'CarbonTrack' in table; footnote states 'CarbonTrack' refers to CarbonTrack Analytics Corp. throughout this document.,False,True
+CarbonTrack,CarbonTrack Analytics Corp.,,Paying Entities,"1,042",count,,2,2025,point_in_time,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,2,table,,True,False
+CarbonTrack,CarbonTrack Analytics Corp.,headcount,Headcount,78,count,,2,2025,point_in_time,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,2,table,,False,True
+CarbonTrack,CarbonTrack Analytics Corp.,net_burn,Net Burn (monthly),($0.55M),M,USD,2,2025,monthly,Portfolio_Snapshot_Q2_2025.pdf,snapshot,Q2 2025,2,table,Company referred to as 'CarbonTrack' in table; footnote states 'CarbonTrack' refers to CarbonTrack Analytics Corp. throughout this document.,False,True
+TalentVault,TalentVault Inc.,arr,Contracted ARR,$22.4M,M,USD,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,"Reflects signed, active contracts; includes multi-year deals at full annualized value.",False,False
+TalentVault,TalentVault Inc.,arr,Contracted ARR,$20.8M,M,USD,1,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,"Reflects signed, active contracts; includes multi-year deals at full annualized value.",False,False
+TalentVault,TalentVault Inc.,revenue,Quarterly Revenue (recognized),$5.5M,M,USD,2,2025,quarterly,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+TalentVault,TalentVault Inc.,revenue,Quarterly Revenue (recognized),$5.1M,M,USD,1,2025,quarterly,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+TalentVault,TalentVault Inc.,gross_margin,Gross Margin,76%,%,,2,2025,quarterly,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+TalentVault,TalentVault Inc.,gross_margin,Gross Margin,75%,%,,1,2025,quarterly,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+TalentVault,TalentVault Inc.,,Gross Revenue Retention (LTM),91%,%,,2,2025,ltm,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,Gross Revenue Retention excludes expansion; see footnote (2).,True,False
+TalentVault,TalentVault Inc.,,Gross Revenue Retention (LTM),90%,%,,1,2025,ltm,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,Gross Revenue Retention excludes expansion; see footnote (2).,True,False
+TalentVault,TalentVault Inc.,net_revenue_retention,Net Revenue Retention (LTM),119%,%,,2,2025,ltm,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,Net Revenue Retention includes upsell and cross-sell.,False,False
+TalentVault,TalentVault Inc.,net_revenue_retention,Net Revenue Retention (LTM),116%,%,,1,2025,ltm,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,Net Revenue Retention includes upsell and cross-sell.,False,False
+TalentVault,TalentVault Inc.,,Enterprise Accounts (>$100k ARR),48,count,,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+TalentVault,TalentVault Inc.,,Enterprise Accounts (>$100k ARR),43,count,,1,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+TalentVault,TalentVault Inc.,,Total Paying Seats,"6,840",count,,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+TalentVault,TalentVault Inc.,,Total Paying Seats,"6,210",count,,1,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+TalentVault,TalentVault Inc.,headcount,Total Headcount,103,count,,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+TalentVault,TalentVault Inc.,headcount,Total Headcount,97,count,,1,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+TalentVault,TalentVault Inc.,net_burn,Monthly Net Burn ($0.68M),($0.68M),M,USD,2,2025,monthly,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,Monthly Net Burn excludes non-cash stock-based compensation ($0.42M/quarter).,False,False
+TalentVault,TalentVault Inc.,net_burn,Monthly Net Burn ($0.68M),($0.74M),M,USD,1,2025,monthly,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,Monthly Net Burn excludes non-cash stock-based compensation ($0.42M/quarter).,False,False
+TalentVault,TalentVault Inc.,cash,Cash Balance,$17.9M,M,USD,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+TalentVault,TalentVault Inc.,cash,Cash Balance,$19.0M,M,USD,1,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,False,False
+TalentVault,TalentVault Inc.,,Weekly active users as a percentage of licensed seats,64%,%,,2,2025,unknown,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Reported on a 30-day trailing basis; up from 61% in Q1 2025.,True,False
+TalentVault,TalentVault Inc.,,Candidate profiles processed,approximately 4.2 million,count,,2,2025,quarterly,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Processed during the quarter; 14% increase quarter-over-quarter.,True,False
+TalentVault,TalentVault Inc.,,AI-assisted shortlist adoption,73%,%,,2,2025,unknown,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Compared to 68% in the prior quarter.,True,False
+TalentVault,TalentVault Inc.,,active users,73%,%,,2,2025,unknown,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,commentary,AI-assisted shortlist adoption reached 73% of active users.,True,False
+TalentVault,TalentVault Inc.,,predictive retention module,22 enterprise accounts,count,,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Launched Q1 2025; saw uptake across 22 enterprise accounts by period end.,True,False
+TalentVault,TalentVault Inc.,,Discovery / Qualified,41,count,,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+TalentVault,TalentVault Inc.,,Discovery / Qualified,$11.2M,M,USD,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+TalentVault,TalentVault Inc.,,Discovery / Qualified,$3.4M,M,USD,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,Weighted ACV.,True,False
+TalentVault,TalentVault Inc.,,Active Evaluation,22,count,,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+TalentVault,TalentVault Inc.,,Active Evaluation,$8.6M,M,USD,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+TalentVault,TalentVault Inc.,,Active Evaluation,$4.3M,M,USD,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,Weighted ACV.,True,False
+TalentVault,TalentVault Inc.,,Legal / Procurement,9,count,,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+TalentVault,TalentVault Inc.,,Legal / Procurement,$4.1M,M,USD,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,,True,False
+TalentVault,TalentVault Inc.,,Legal / Procurement,$3.1M,M,USD,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,table,Weighted ACV.,True,False
+TalentVault,TalentVault Inc.,,Average enterprise sales cycle,approximately 112 days,count,,2,2025,quarterly,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Extended versus 98 days in Q1.,True,False
+TalentVault,TalentVault Inc.,,98 days,98 days,count,,1,2025,quarterly,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Prior quarter comparison for average enterprise sales cycle.,True,False
+TalentVault,TalentVault Inc.,,~35% of coverage,~35%,%,,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,commentary,A key labour market data supplier is in contract renegotiation.,True,False
+TalentVault,TalentVault Inc.,,EU AI Act compliance investment,$0.6M–$1.0M,M,USD,,,unknown,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Estimated investment in H2 2025.,True,False
+TalentVault,TalentVault Inc.,,Two large ATS vendors,Two,count,,2,2025,point_in_time,TalentVault_Q2_2025.pdf,standalone,Q2 2025,1,commentary,Announced competing AI sourcing features in Q2 2025.,True,False
