@@ -98,7 +98,7 @@ without losing the original disclosure.
 | Path | Responsibility |
 |---|---|
 | `config/metrics.yaml` | Canonical metric dictionary (name + definition) |
-| `specs/spec.md` | One-page spec: goal, observed data traps, approach, scope decisions |
+| `specs/spec.md` | One-page spec: goal, observed reporting inconsistencies, approach, scope decisions |
 | `src/schema.py` | Pydantic extraction schema (per-metric provenance fields) |
 | `src/ingest.py` | PDF → text per page (pdfplumber) |
 | `src/extract.py` | Prompt assembly + OpenAI structured-output call |

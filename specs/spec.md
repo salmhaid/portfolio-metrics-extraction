@@ -14,8 +14,8 @@ inconsistency across companies and time:
 - **Label drift**: NovaCloud "Total Billings" (Q2 2024) becomes "Recognized Revenue" (Q2 2025);
   LendBridge "Credit Loss Rate" becomes "Net Charge-off Rate" (footnotes state equivalence).
 - **Entity rename**: FleetLink Logistics rebranded to Apex Freight Solutions (Apr 2025).
-- **Currency traps**: PeopleFlow reports in GBP; MediSight prints "6.8M" with no symbol.
-- **Period-basis traps**: NovaCloud reports monthly net burn; ConstructIQ quarterly.
+- **Mixed currencies**: PeopleFlow reports in GBP; MediSight prints "6.8M" with no symbol.
+- **Mixed period bases**: NovaCloud reports monthly net burn; ConstructIQ quarterly.
 - **Restatement**: PeopleFlow Q2 2025 restates Q1 revenue (4.7M → 4.6M); Q1 report not reissued.
 - **Prose-only metrics**: PeopleFlow gross margin appears only in commentary, not in a table.
 - **Overlapping sources**: the Portfolio Snapshot re-reports four companies that also file
