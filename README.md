@@ -112,7 +112,8 @@ without losing the original disclosure.
 | `src/checks.py` | Provenance guard + data-quality checks → flag rows |
 | `src/pipeline.py` | CLI + orchestration + output writing |
 | `tests/` | Unit tests for the deterministic layers (no API key needed) |
-| `demo.ipynb` | Executed walkthrough of the outputs |
+| `walkthrough.ipynb` | One PDF through each stage, every intermediate result shown |
+| `demo.ipynb` | Batch run + review of the three output files |
 | `output/` | Committed results of the sample run |
 
 ## Approach & key assumptions
