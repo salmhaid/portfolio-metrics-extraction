@@ -2,6 +2,9 @@
 .env
 INTERVIEW_NOTES.md
 
+# Presentation material — local only
+*.pptx
+
 # Input PDFs stay local (reviewer points --input at their own copy)
 data/
 
