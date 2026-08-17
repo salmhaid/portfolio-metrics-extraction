@@ -52,11 +52,13 @@ def build_pivot(df: pd.DataFrame) -> pd.DataFrame:
     current = df[df["canonical_metric"].isin(PIVOT_METRICS) & ~df["superseded"]]
     if current.empty:
         return pd.DataFrame()
+    # A cell normally has exactly one live value. When a within-document conflict leaves
+    # two live rows (both flagged in flags.csv), show BOTH — never silently pick one.
     pivot = current.pivot_table(
         index=["company", "canonical_metric"],
         columns="period",
         values="value",
-        aggfunc="first",
+        aggfunc=lambda v: " | ".join(dict.fromkeys(v.astype(str))),
     )
     ordered = sorted(pivot.columns, key=lambda p: (p.split()[-1], p.split()[0]))
     return pivot[ordered]

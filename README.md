@@ -39,17 +39,23 @@ Run the tests (no API key needed — they cover the deterministic layers using J
 pytest
 ```
 
-`demo.ipynb` is committed with outputs executed, so it can be read on GitHub without running
-anything. To run it interactively (it only reads the committed `output/` CSVs — no API key
-needed): `pip install jupyterlab && jupyter lab demo.ipynb`, or open it in your IDE and select
-this project's `.venv` as the kernel.
+Two notebooks, both committed with outputs executed so they read on GitHub without running:
+
+- [walkthrough.ipynb](walkthrough.ipynb) — one sample PDF through each stage individually,
+  showing every intermediate result: raw page text, the exact prompt, the model's structured
+  response, the normalized rows, and the checks. (Re-running needs an API key — one call.)
+- [demo.ipynb](demo.ipynb) — the batch pipeline run and a review of the three output files
+  (reads the committed `output/` CSVs — no key needed).
+
+To run either interactively: `pip install jupyterlab && jupyter lab`, or open in your IDE
+and select this project's `.venv` as the kernel.
 
 ## Outputs
 
 | File | What it is |
 |---|---|
 | `output/metrics_long.csv` | Tidy fact table: one row per extracted metric + provenance columns |
-| `output/pivot.csv` | Companies × quarters for the canonical metrics — the human-review view |
+| `output/pivot.csv` | Companies × quarters for the canonical metrics — the human-review view. A cell with an unresolved within-document conflict shows both values pipe-separated (cross-referenced by a warning in `flags.csv`) |
 | `output/flags.csv` | Everything uncertain: errors, unverified values, duplicates, missing currency |
 
 ### `metrics_long.csv` data model

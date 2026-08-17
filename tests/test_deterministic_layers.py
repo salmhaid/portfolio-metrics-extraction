@@ -117,6 +117,16 @@ def test_same_value_repetition_across_locations_is_resolved_not_warned():
     assert [f["severity"] for f in flags] == ["info"]
 
 
+def test_pivot_shows_both_values_on_unresolved_conflict():
+    from src.pipeline import build_pivot
+    d = doc("ClearPay Technologies Ltd.", "Q2 2025",
+            [metric(verbatim_label="Net Revenue (take-rate based)", value="$14.8M"),
+             metric(verbatim_label="Total Recognized Revenue", value="$17.3M")])
+    df = normalize([(Path("ClearPay_Q2_2025.pdf"), d)], METRIC_DEFS)
+    cell = build_pivot(df).loc[("ClearPay", "revenue"), "Q2 2025"]
+    assert cell == "$14.8M | $17.3M"
+
+
 def test_duplicate_within_one_document_is_warned():
     d = doc("ClearPay Technologies Ltd.", "Q2 2025",
             [metric(verbatim_label="Net Revenue (take-rate based)", value="$14.8M"),
