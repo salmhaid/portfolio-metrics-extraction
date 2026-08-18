@@ -151,10 +151,17 @@ consistency check. 9 warnings, each a genuine catch: missing currencies (MediSig
 ApexFreight print bare numbers like "6.8M"), and the provenance guard catching the model
 transcribing "+ $0.2M" for a value typeset as "+$0.2M".
 
-Because extraction is an LLM call, results vary slightly between runs (e.g. an earlier run
-mapped ClearPay's "Net Revenue" and "Total Recognized Revenue" both to revenue — correctly
-surfaced as a conflict warning rather than silently resolved). Measuring and tightening that
-variance is what the eval harness in next steps is for.
+One deliberate imperfection is visible in this run's outputs: ApexFreight's Q2 2025 pivot
+cell reads `8.6M | 9.3M`. The company split revenue disclosure for the first time that
+quarter, and the component line inherited the label its *total* had carried for four prior
+quarters ("Recognized Revenue"), so the model mapped both it and the new "Total Recognized
+Revenue" to `revenue`. By design the pipeline never silently picks a winner within one
+document: both rows stay live, `flags.csv` carries a warning naming both candidates, and the
+pivot shows both values. A human (or, later, a components-sum-to-total check) resolves it.
+
+Because extraction is an LLM call, results also vary slightly between runs (an earlier run
+produced the equivalent conflict on ClearPay's two revenue lines instead). Measuring and
+tightening that variance is what the eval harness in next steps is for.
 
 ## Known limitations
 
